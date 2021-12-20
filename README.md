@@ -1,4 +1,4 @@
-# Gaurav_Lab-Spring-AssignmentSolution
+# Harshita_Lab-Spring-AssignmentSolution
 Lab 6 Assignment (Spring Boot - Backend)
 
 Screenshots included -
